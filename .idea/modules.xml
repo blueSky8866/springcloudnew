@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/cart-service/cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-entity/common-entity.iml" filepath="$PROJECT_DIR$/common-entity/common-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confgi-server/confgi-server.iml" filepath="$PROJECT_DIR$/confgi-server/confgi-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudnew.iml" filepath="$PROJECT_DIR$/springcloudnew.iml" />
+    </modules>
+  </component>
+</project>

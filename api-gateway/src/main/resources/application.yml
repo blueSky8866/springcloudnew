@@ -1,0 +1,18 @@
+server:
+  port: 8801
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9991/eureka/,http://localhost:9992/eureka/
+spring:
+  application:
+    name: api-gateway
+
+zuul:
+  routes:
+    api-index:
+      path: /cart/**
+      serviceId: cart-service
+    api-product:
+      path: /product/**
+      serviceId: product-service
